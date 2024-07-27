@@ -2,7 +2,7 @@
 
 Welcome to Minesweeper! This classic puzzle game challenges your strategic thinking and logic skills. 
 
-![Minesweeper Banner](https://example.com/banner-image.jpg)
+![Minesweeper Game](minesweeper-logo.png)
 
 ## Table of Contents
 
